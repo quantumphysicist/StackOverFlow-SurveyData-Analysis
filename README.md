@@ -1,4 +1,4 @@
-# StackOverFlow-SurveyData-Analysis
+# StackOverFlow Survey Data Analysis
 
 All the relevant content is in the jupyter notebook: `Analysis-of-StackOverFlow-SurveyData-2017to2021.ipynb` This notebook contains data analysis of StackOverFlow survey data for the years [2017 – 2021](https://insights.stackoverflow.com/survey). Figures generated in the notebook are saved as `Gender.png`, `Race-Ethnicity2.png`, and `Languages.png`. 
 
