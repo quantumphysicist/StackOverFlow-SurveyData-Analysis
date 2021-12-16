@@ -1,7 +1,7 @@
 # StackOverFlow Survey Data Analysis
 
 This repository is associated with my [medium.com](https://medium.com/@renju.s.mathew/938aa4ac46b3) article on the subject. 
-All the relevant content is in the jupyter notebook: `Analysis-of-StackOverFlow-SurveyData-2017to2021.ipynb`. This notebook contains data analysis of [StackOverFlow survey data](https://insights.stackoverflow.com/survey) for the years 2017 – 2021. Figures generated in the notebook are saved as `Languages.png`, `Gender.png`, `Race-Ethnicity2.png`, and `Top10Table.png`. These are Figures 1, 2, 3, and Table 1 respectively in the medium.com article.
+All the relevant content is in the jupyter notebook: `Analysis-of-StackOverFlow-SurveyData-2017to2021.ipynb`. This notebook contains data analysis of [StackOverFlow survey data](https://insights.stackoverflow.com/survey) for the years 2017 – 2021. Figures generated in the notebook are saved as `Languages.png`, `Gender.png`, `Race-Ethnicity.png`, and `Top10Table.png`. These are Figures 1, 2, 3, and Table 1 respectively in the medium.com article.
 
 This project follows the CRISP-DM (Cross-industry standard process for data mining) Process. 
 
