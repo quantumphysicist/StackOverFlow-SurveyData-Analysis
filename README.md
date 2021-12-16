@@ -14,7 +14,7 @@ This project follows the CRISP-DM (Cross-industry standard process for data mini
 Summary of the results of the analysis:
 1. In 2017, Java was the most popular programming language and C was in second place; in 2021, C and Java have swapped positions.
 2. The gender representation has remained almost the same over the five years, with a 91% male representation.
-3. The race/ethnicity representation has changed over the five years, with "White or of European descent" decreasing from 70% to 50%.
+3. The race/ethnicity representation has changed over the five years, with "White or of European descent" decreasing from 71% to 53%.
 
 
 
