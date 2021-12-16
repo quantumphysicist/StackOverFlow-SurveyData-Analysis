@@ -12,7 +12,7 @@ Modules: numpy, pandas, matplotlib.
 
 ## Project Motivation<a name="motivation"></a>
 
-I was interesed in analysing yearly StackOverFlow survey data to identify trends of interest to developers. The three topics of interest to me were:
+I was interesed in analysing yearly StackOverFlow survey data to identify trends of interest to developers. The three questions of interest to me were:
 
 1. How has the gender distribution of the survey participants changed between 2017 – 2021?
 2. How has the racial/ethnic distribution of the survey participants changed between 2017 – 2021?
@@ -33,9 +33,9 @@ Figures generated in the notebook are saved as `Languages.png`, `Gender.png`, `R
 
 The results are fully discussed in the [medium.com](https://medium.com/@renju.s.mathew/938aa4ac46b3) article. 
 
-Summary
-1. In 2017, Java was the most popular programming language and C was in second place; by 2021, C and Java have swapped positions.
-2. The gender representation has remained almost the same over the five years, with a 91% male representation.
+In summary,
+1. In 2017, Java was the most popular programming language and C was in second place; by 2021, C and Java have swapped positions;
+2. The gender representation has remained almost the same over the five years, with a 91% male representation;
 3. The race/ethnicity representation has changed over the five years, with "White or of European descent" decreasing from 71% to 53%.
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
