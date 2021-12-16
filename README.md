@@ -24,7 +24,7 @@ This repository is associated with my [medium.com](https://medium.com/@renju.s.m
 
 All the relevant content is in the jupyter notebook `Analysis-of-StackOverFlow-SurveyData-2017to2021.ipynb` which contains data analysis of [StackOverFlow survey data](https://insights.stackoverflow.com/survey) for the years 2017 – 2021. 
 
-The individuals steps of the data science process (gather, assess, clean, analyse, model, visualize) are identified with Markdown cells.
+The individuals steps of the data science process (gather, assess, clean, analyse, model, visualise) are identified with Markdown cells.
 CRISP-DM steps are also outlined in markdown cells at the relevant points in the notebook.
 
 Figures generated in the notebook are saved as `Languages.png`, `Gender.png`, `Race-Ethnicity.png`, and `Top10Table.png`. These are Figures 1, 2, 3, and Table 1 respectively in the medium.com article.
