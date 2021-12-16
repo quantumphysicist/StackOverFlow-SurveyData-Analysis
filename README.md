@@ -12,7 +12,7 @@ Modules: numpy, pandas, matplotlib.
 
 ## Project Motivation<a name="motivation"></a>
 
-I was interesed in analysing yearly StackOverFlow survey data to identify trends of interest to developers. The three topics of interest to me were:
+I was interesed in analysing yearly StackOverFlow survey data to identify trends of interest to developers. The three questions of interest to me were:
 
 1. How has the gender distribution of the survey participants changed between 2017 – 2021?
 2. How has the racial/ethnic distribution of the survey participants changed between 2017 – 2021?
