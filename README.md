@@ -27,7 +27,7 @@ All the relevant content is in the jupyter notebook `Analysis-of-StackOverFlow-S
 The individuals steps of the data science process (gather, assess, clean, analyse, model, visualise) are identified with Markdown cells.
 CRISP-DM steps are also outlined in markdown cells at the relevant points in the notebook.
 
-Figures generated in the notebook are saved as `Languages.png`, `Gender.png`, `Race-Ethnicity.png`, and `Top10Table.png`. These are Figures 1, 2, 3, and Table 1 respectively in the medium.com article.
+Figures generated in the notebook are saved as `Languages.png`, `Gender.png`, `Race-Ethnicity.png`, and `Top10Table.png`. These are Figures 1, 2, 3, and Table 1 respectively in the medium.com article. (These are reproduced at the bottom of this readme file.)
 
 ## Results<a name="results"></a>
 
@@ -41,3 +41,16 @@ In summary,
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 Thanks to StackOverFlow for making their data freely available at https://insights.stackoverflow.com/survey.
 
+## Figures
+<p align="center">
+  <img src="Languages.png" />
+</p>
+<p align="center">
+  <img src="Gender.png" />
+</p>
+<p align="center">
+  <img src="Race-Ethnicity.png" />
+</p>
+<p align="center">
+  <img src="Top10Table.png" />
+</p>
