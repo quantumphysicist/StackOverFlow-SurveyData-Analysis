@@ -10,7 +10,8 @@
 
 ## Installation <a name="installation"></a>
 Anaconda distribution of Python 3.0.
- 
+
+Requirements (see `requirements.txt`):  
 matplotlib==3.4.2  
 numpy==1.20.2  
 pandas==1.4.1  
