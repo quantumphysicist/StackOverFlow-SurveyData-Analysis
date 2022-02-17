@@ -11,10 +11,10 @@
 ## Installation <a name="installation"></a>
 Anaconda distribution of Python 3.0.
  
-matplotlib==3.4.2
-numpy==1.20.2
-pandas==1.4.1
-pandas_stubs==1.2.0.14
+matplotlib==3.4.2  
+numpy==1.20.2  
+pandas==1.4.1  
+pandas_stubs==1.2.0.14  
 
 ## Project Motivation<a name="motivation"></a>
 
